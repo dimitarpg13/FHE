@@ -1,0 +1,15 @@
+[submodule "HElib"]
+	path = HElib
+	url = https://github.com/shaih/HElib
+[submodule "NFLlib"]
+	path = NFLlib
+	url = https://github.com/quarkslab/NFLlib
+[submodule "cuHE"]
+	path = cuHE
+	url = https://github.com/vernamlab/cuHE
+[submodule "SWIFFT"]
+	path = SWIFFT
+	url = https://github.com/micciancio/SWIFFT
+[submodule "FHEW"]
+	path = FHEW
+	url = https://github.com/lducas/FHEW
